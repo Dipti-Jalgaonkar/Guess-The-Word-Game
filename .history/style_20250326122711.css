@@ -1,0 +1,23 @@
+*,
+*:before,
+*:after {
+    margin: 0px;
+    padding: 0px;
+    box-sizing: border-box;
+}
+body {
+    background-color: #7786f5;
+}
+.wrapper {
+    position: absolute;
+    width: 90%;
+    max-width: 37em;
+    background-color: #ffffff;
+    /* padding: 7em 3em; */
+    /* position: absolute; */
+    transform: translate(-50%, -50%);
+    top: 50%;
+    left: 50%;
+    /* text-align: center;
+    border-radius: 1em; */
+}

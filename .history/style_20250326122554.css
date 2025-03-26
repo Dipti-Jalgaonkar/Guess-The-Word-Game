@@ -1,0 +1,19 @@
+*,
+*:before,
+*:after {
+    margin: 0px;
+    padding: 0px;
+    box-sizing: border-box;
+}
+body {
+    background-color: #7786f5;
+}
+.wrapper {
+    position: absolute;
+    width: 90%;
+    max-width: 37em;
+    background-color: #ffffff;
+    transform: translate(-50%, -50%);
+    top: 50%;
+    left: 50%;
+}
